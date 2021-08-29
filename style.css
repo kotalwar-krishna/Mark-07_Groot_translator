@@ -21,7 +21,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;700&display=swap');
 
 :root {
-    --primary-color: #FBBF24;
+    --primary-color: #D97706;
     --black: #333333;
 }
 
@@ -31,6 +31,7 @@
 
 body {
     color: var(--black);
+
 }
 
 /* navigation */
@@ -48,6 +49,7 @@ nav {
     margin: 0px auto;
     padding: 0.5rem;
     max-width: 600px;
+
 }
 textarea {
     box-sizing: border-box;
