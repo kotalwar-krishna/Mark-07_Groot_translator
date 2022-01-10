@@ -9,7 +9,7 @@ var serverUrl = "https://api.funtranslations.com/translate/groot.json"
 //     return serverUrl + "?" + "text=" + text
 // }
 
-let getTranslationUrl = text => serverUrl + '?' + text;
+let getTranslationUrl = text => serverUrl + "?" + "text=" + text
 
 
 // function errorHandler(){
